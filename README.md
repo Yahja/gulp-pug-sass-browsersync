@@ -1,6 +1,7 @@
 # gulp-pug-sass-browsersync
-1. Descarga o clona el repositorio
-2. Abre tu terminal o consola y escribe `npm install`
+1. Descarga o clona `git clone https://github.com/Yahja/gulp-pug-sass-browsersync.git` el repositorio en tu máquina local
+2. Abre tu terminal y entra en la carpeta con `gulp-pug-sass-browsersync`
+3. Escribe `npm install`
 3. Para levantar el archivo compilado `gulp`
 
 # Estructura y funcionamiento
