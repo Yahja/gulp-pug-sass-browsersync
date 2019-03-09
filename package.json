@@ -10,14 +10,17 @@
   "license": "ISC",
   "devDependencies": {
     "bootstrap": "^4.0.0",
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.26.3",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-pug": "^3.3.0",
     "gulp-sass": "^3.1.0",
-    "gulp-sourcemaps": "^2.6.4",
+    "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.0",
     "install": "^0.10.4",
     "npm": "^5.7.1"
+  },
+  "dependencies": {
+    "gsap": "^2.1.2"
   }
 }
